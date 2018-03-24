@@ -1,6 +1,8 @@
 # ghost-typer.js
 Jquery Plugin for simulating typing magically.
 
+Moved to [@lokeshdevnani/ghost-typer](https://github.com/lokeshdevnani/ghost-typer)
+
 See [https://lokeshthegenius.github.io/ghost-typer](https://lokeshthegenius.github.io/ghost-typer)
 
 ## Demo
